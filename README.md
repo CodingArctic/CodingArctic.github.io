@@ -3,4 +3,4 @@
 my github page?
 
 check it out
-https://CodingArctic.github.io
+https://clyde.biz
