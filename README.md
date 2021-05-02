@@ -1,6 +1,6 @@
 # CodingArctic.github.io
 
-my github page?
+my website!
 
 check it out
 https://clyde.biz
