@@ -5,11 +5,6 @@
     margin-right: auto;
 }
 
-@font-face {
-    font-family: 'robotoregular';
-    src: url('/robotokit/roboto-regular-webfont.woff2') format('woff2'),
-         url('/robotokit/roboto-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
+body {
+    font-family: "Roboto", sans-serif;
+  }
